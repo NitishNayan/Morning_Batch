@@ -6,6 +6,7 @@ public class NewTestClass {
 	{
 
 System.out.println("new  program added by lead");
+System.out.println("new  program added");
 	}
 
 }
