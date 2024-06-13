@@ -3,4 +3,11 @@
   <groupId>com.spider1</groupId>
   <artifactId>mng_batch</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>qspider</groupId>
+  		<artifactId>AutomationFramework8</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
